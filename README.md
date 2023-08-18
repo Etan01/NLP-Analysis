@@ -9,5 +9,5 @@ It is a powerful tool to analyse large quantities of text data.
 
 Techniques Learnt:
 1. VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
-2. Roberta Pretrained Model from 🤗
+2. Roberta Pretrained Model
 3. Huggingface Pipeline
