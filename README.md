@@ -1,6 +1,8 @@
 # Natural Language Processing Quick Notes
 
-PS: Course from Udemy
+Sources:
+1. Course from Udemy
+2. Youtube Tutorial
 
 ## Brief Introduction
 ### One of the popular machine learning tools
