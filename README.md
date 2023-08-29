@@ -1,4 +1,4 @@
-# Natural Language Processing Quick Notes
+# Natural Language Processing Quick Notes & Practises
 
 Sources:
 1. Course from Udemy
